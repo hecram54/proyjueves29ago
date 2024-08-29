@@ -1,0 +1,114 @@
+*{margin: 0px;}
+.nivel7
+{
+   background-color: brown; 
+   padding: 20px;
+   width: 600px;
+   border-radius: 100px;
+   margin: 2px; height: 600px;
+}
+.nivel6
+{
+   background-color: aqua;
+   padding: 20px;
+   width: 60px;
+   border-radius: 70px;
+   margin: 5px; height: 60px;
+}
+.nivel5
+{
+    background-color: blue;
+    padding: 20px;
+    width: 50px;
+    border-radius: 70px;
+    margin: 5px; height: 50px;
+}
+.nivel4
+{
+    background-color: blueviolet;
+    padding: 20px;
+    width: 40px;
+    border-radius: 70px;
+    margin: 5px; height: 40px;
+}
+.nivel3
+{
+    background-color: rgb(212, 104, 16);
+    padding: 20px;
+    width: 30px;
+    border-radius: 70px;
+    margin: 5px; height: 30px;
+}
+.nivel2
+{
+    background-color: rgb(28, 224, 116);
+    padding: 20px;
+    width: 20px;
+    border-radius: 70px;
+    margin: 5px; height: 20px;
+}
+.nivel1
+{
+    background-color: rgb(196, 21, 143);
+    padding: 8px;
+    width: 10px;
+    border-radius: 70px;
+    margin: 5px; height: 10px;
+}
+
+#nivel7
+{
+   background-color: brown; 
+   padding: 20px;
+   width: 70px;
+   border-radius: 70px;
+   margin: 2px; height: 70px; right: 70px;
+}
+#nivel6
+{
+   background-color: aqua;
+   padding: 20px;
+   width: 60px;
+   border-radius: 70px;
+   margin: 5px; height: 60px;
+}
+#nivel5
+{
+    background-color: blue;
+    padding: 20px;
+    width: 50px;
+    border-radius: 70px;
+    margin: 5px; height: 50px;
+}
+#nivel4
+{
+    background-color: blueviolet;
+    padding: 20px;
+    width: 40px;
+    border-radius: 70px;
+    margin: 5px; height: 40px;
+}
+#nivel3
+{
+    background-color: rgb(212, 104, 16);
+    padding: 20px;
+    width: 30px;
+    border-radius: 70px;
+    margin: 5px; height: 30px;
+}
+#nivel2
+{
+    background-color: rgb(28, 224, 116);
+    padding: 20px;
+    width: 20px;
+    border-radius: 70px;
+    margin: 5px; height: 20px;
+}
+#nivel1
+{
+    background-color: rgb(196, 21, 143);
+    padding: 8px;
+    width: 10px;
+    border-radius: 70px;
+    margin: 5px; height: 10px;
+}
